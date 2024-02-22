@@ -1,6 +1,6 @@
 # pin-generate
 
-Live link :- https://omar-faruk-6.github.io/pin-generate
+Live link :- https://code-with-omar.github.io/pin-generate/
 
 # UI/UIX
 ![Web capture_8-12-2023_95221_omar-faruk-6 github io](https://github.com/omar-faruk-6/pin-generate/assets/68624414/96aac7bd-d1dc-4c04-a411-0f6d4c1f9566)
